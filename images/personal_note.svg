@@ -1,16 +1,20 @@
-<svg fill="none" viewBox="0 0 430 40" width="430" height="40" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
+<svg viewBox="0 0 430 40" width="430" height="40" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background-color: transparent; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+      <style>
         strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
           color: limegreen;
           font-size: 1.5em;
+          display: inline; /* Ensure text aligns correctly */
+          margin: 0; /* Remove any default margin */
+          white-space: nowrap; /* Prevent line breaks */
         }
 
         .blink {
           animation: blink-animation 1s steps(5, start) infinite;
         }
+
         @keyframes blink-animation {
           to {
             visibility: hidden;
@@ -18,7 +22,8 @@
         }
       </style>
       <strong>
-        My Name is Nihal and I like<span class="blink">Node.js</span></strong>
-		</div>
-	</foreignObject>
+        My Name is Nihal and I like <span class="blink">Node.js</span>
+      </strong>
+    </div>
+  </foreignObject>
 </svg>
