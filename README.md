@@ -45,6 +45,6 @@
   <img src="https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
   ## Feeding...
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/output/github-contribution-grid-snake-dark.svg)
 
 </div>
