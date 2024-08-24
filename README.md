@@ -28,16 +28,25 @@
 
 <!-- Guestbook Section -->
 <div align="center">
-  <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/62#issuecomment-new">
+<!--   <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/62#issuecomment-new">
     <img src="images/guestbook.svg" alt="Guestbook">
-  </a>
+  </a> -->
+  <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/new?labels=guestbook&title=Guestbook+Entry">
+    <img src="images/guestbook.svg" alt="Guestbook">
+</a>
+
 </div>
 
 <!-- Footer -->
 <div align="center">
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/main/images/marquee.svg" />
   <br />
-  ![Visitor Count](https://profile-counter.glitch.me/Luv2SeeYouCry/count.svg)
+  
+<!--   ![Visitor Count](https://profile-counter.glitch.me/Luv2SeeYouCry/count.svg) -->
+  <img src="https://profile-counter.glitch.me/Luv2SeeYouCry/count.svg" alt="Visitor Count" />
+  <br />
+  <br />
+
   <img src="https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/main/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
