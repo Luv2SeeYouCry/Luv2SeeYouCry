@@ -26,7 +26,9 @@
 
 <!-- Guestbook Section -->
 <div align="center">
-  <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/62"><img src="images/guestbook.svg" alt="Guestbook"></a>
+  <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/62">
+    <img src="images/guestbook.svg" alt="Guestbook">
+  </a>
 </div>
 
 <!-- Footer -->
