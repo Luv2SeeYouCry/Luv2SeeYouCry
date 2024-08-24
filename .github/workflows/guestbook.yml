@@ -1,8 +1,11 @@
-name: Guestbook
+# Credit to https://github.com/openscript/openscript :)
+
 
 on:
   issue_comment:
     types: [created, edited, deleted]
+
+name: Guestbook
 
 jobs:
   update_guestbook:
@@ -13,7 +16,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-
       - name: Update guestbook from comments
         uses: actions/github-script@v6
         with:
