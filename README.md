@@ -3,7 +3,8 @@
   <img src="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Nihal and I like Node.js" src="images/personal_note.svg" />
+  <!-- Update the src with raw=true to ensure the latest SVG is used -->
+  <img height="50" alt="My Name is Nihal and I like Node.js" src="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/blob/main/images/personal_note.svg?raw=true" />
   <br />
   <br />
 </div>
@@ -17,7 +18,7 @@
 <br />
 <br />
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/blob/main/images/music.gif?raw=true"> 
 </a>
 </p>
 </td>
@@ -26,7 +27,8 @@
 
 <!-- Guestbook Section -->
 <div align="center">
-  <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/1"><img src="images/guestbook.svg" alt="Guestbook"></a>
+  <!-- Update the issue number to the correct one and use raw=true if needed -->
+  <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/1"><img src="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/blob/main/images/guestbook.svg?raw=true" alt="Guestbook"></a>
 </div>
 
 <!-- Footer -->
