@@ -1,10 +1,8 @@
-# Credit to https://github.com/openscript/openscript :)
+name: Guestbook
 
 on:
   issue_comment:
     types: [created, edited, deleted]
-
-name: Guestbook
 
 jobs:
   update_guestbook:
@@ -49,6 +47,8 @@ jobs:
               
               const result = await github.graphql(query, variables);
 
+              console.log("Query Result:", result);  // Debugging line
+
               const renderComments = (comments) => {
                 return comments.reduce((prev, curr) => {
                   let text = curr.bodyText.replace(/(\r\n|\r|\n)/g, "<br />").replace('|', '&#124;');
@@ -63,6 +63,7 @@ jobs:
               readme = readme.replace(/(?<=<!-- Guestbook -->.*\n)[\S\s]*?(?=<!-- \/Guestbook -->|$(?![\n]))/gm, updatedContent);
 
               fs.writeFileSync('README.md', readme, 'utf8');
+              console.log("Updated README.md content:", readme);  // Debugging line
             } catch (error) {
               console.error("Error updating guestbook:", error);
               core.setFailed(`Workflow failed with error: ${error.message}`);
