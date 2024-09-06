@@ -75,5 +75,7 @@
   <img src="https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
   <br />
   <br />
-  ![Snake animation](https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/output/github-contribution-grid-snake-dark.svg)
+  
+![Snake animation](https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/output/github-contribution-grid-snake-dark.svg)
+
 </div>
