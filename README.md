@@ -27,13 +27,11 @@
 
 </td>
 
-
 <td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 <strong>Listen to cool music</strong>
 <br />
 <br />
-
 
 <p>
 <img height="100" alt="Music" src="images/music.gif"> 
@@ -47,9 +45,6 @@
 <div align="center">
 <a href="https://github.com/Luv2SeeYouCry/Luv2SeeYouCry/issues/1"><img src="images/guestbook.svg"></a> 
 </div>
-
-
-
 
 <!-- Guestbook Section -->
 
@@ -76,6 +71,6 @@
   <br />
   <br />
   
-![Snake animation](https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/output/dist/snake.svg)
 
 </div>
