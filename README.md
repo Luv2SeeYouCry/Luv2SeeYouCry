@@ -76,6 +76,6 @@
   <br />
   <br />
   
-![Snake animation](https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Luv2SeeYouCry/Luv2SeeYouCry/output/github-contribution-grid-snake.svg)
 
 </div>
